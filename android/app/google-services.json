@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "819714803926",
+    "firebase_url": "https://futboll-694e5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "futboll-694e5",
+    "storage_bucket": "futboll-694e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819714803926:android:138d24dfcc726f7e6ba177",
+        "android_client_info": {
+          "package_name": "com.example.futbol_sim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHdM63CdROibPN3VvC_grUGZKe0-esl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
